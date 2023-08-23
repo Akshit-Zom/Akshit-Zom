@@ -3,7 +3,7 @@
 Akshit-Zom/Akshit-Zom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="https://github.com/Akshit-Zom/Akshit-Zom/assets/124908941/c5ceaf06-08c2-4561-bd58-adf2eed046c6" style="margin-bottom: 30%;" align="center" />
+<!-- <img src="https://github.com/Akshit-Zom/Akshit-Zom/assets/124908941/c5ceaf06-08c2-4561-bd58-adf2eed046c6" style="margin-bottom: 30%;" align="center" /> -->
 
 <img  align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Akshit-Zom" style="margin-top: 30px; " />
 
